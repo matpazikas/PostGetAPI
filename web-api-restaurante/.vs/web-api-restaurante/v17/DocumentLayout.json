@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\source\\repos\\web-api-restaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1997467C-28CF-4C64-B4FC-19827A2E2B62}|web-api-restaurante\\web-api-restaurante.csproj|c:\\users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1997467C-28CF-4C64-B4FC-19827A2E2B62}|web-api-restaurante\\web-api-restaurante.csproj|solutionrelative:web-api-restaurante\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1997467C-28CF-4C64-B4FC-19827A2E2B62}|web-api-restaurante\\web-api-restaurante.csproj|c:\\users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1997467C-28CF-4C64-B4FC-19827A2E2B62}|web-api-restaurante\\web-api-restaurante.csproj|solutionrelative:web-api-restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1997467C-28CF-4C64-B4FC-19827A2E2B62}|web-api-restaurante\\web-api-restaurante.csproj|c:\\users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1997467C-28CF-4C64-B4FC-19827A2E2B62}|web-api-restaurante\\web-api-restaurante.csproj|solutionrelative:web-api-restaurante\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1997467C-28CF-4C64-B4FC-19827A2E2B62}|web-api-restaurante\\web-api-restaurante.csproj|c:\\users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\banco.sqlite||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1997467C-28CF-4C64-B4FC-19827A2E2B62}|web-api-restaurante\\web-api-restaurante.csproj|solutionrelative:web-api-restaurante\\banco.sqlite||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1997467C-28CF-4C64-B4FC-19827A2E2B62}|web-api-restaurante\\web-api-restaurante.csproj|c:\\users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1997467C-28CF-4C64-B4FC-19827A2E2B62}|web-api-restaurante\\web-api-restaurante.csproj|solutionrelative:web-api-restaurante\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1997467C-28CF-4C64-B4FC-19827A2E2B62}|web-api-restaurante\\web-api-restaurante.csproj|c:\\users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1997467C-28CF-4C64-B4FC-19827A2E2B62}|web-api-restaurante\\web-api-restaurante.csproj|solutionrelative:web-api-restaurante\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\Program.cs",
+              "RelativeDocumentMoniker": "web-api-restaurante\\Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\Program.cs",
+              "RelativeToolTip": "web-api-restaurante\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:57:47.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "web-api-restaurante\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "web-api-restaurante\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwDoAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:50:34.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\Entidades\\Produto.cs",
+              "RelativeDocumentMoniker": "web-api-restaurante\\Entidades\\Produto.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\Entidades\\Produto.cs",
+              "RelativeToolTip": "web-api-restaurante\\Entidades\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:47:50.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "banco.sqlite",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\banco.sqlite",
+              "RelativeDocumentMoniker": "web-api-restaurante\\banco.sqlite",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\banco.sqlite",
+              "RelativeToolTip": "web-api-restaurante\\banco.sqlite",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-16T23:26:03.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "web-api-restaurante\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "web-api-restaurante\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:17:11.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "web-api-restaurante\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\web-api-restaurante\\web-api-restaurante\\Properties\\launchSettings.json",
+              "RelativeToolTip": "web-api-restaurante\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T23:13:54.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
